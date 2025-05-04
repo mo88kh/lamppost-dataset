@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.9377248883247375,
+  "class_counts": {
+    "0": 25383,
+    "1": 25206
+  },
+  "best_val": 0.9394589066505432,
+  "epochs_ran": 35,
+  "stopped_early": false
+}
