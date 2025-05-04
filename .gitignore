@@ -5,7 +5,7 @@
 
 # data generated locally
 data/
-models/*.pt
+# models/*.pt
 
 # notebooks cache
 *.ipynb_checkpoints/
